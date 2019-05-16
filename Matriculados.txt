@@ -1,0 +1,10 @@
+Nombre:Isaac_Newton CC: 101702150 esta Matriculado en el Curso :
+{"id1":"GRiemman","nombre1":"Geometria Riemanniana","duracion1":"64 Hrs ","valor1":"510000$"}
+Nombre:Isaac_Newton CC: 101702150 esta Matriculado en el Curso :
+{"id":"Topol","nombre":"Topologia General","duracion":"64 Hrs","valor":"480000$"}
+Nombre:Albert_Einstein CC: 101702150 esta Matriculado en el Curso :
+{"id":"Topol","nombre":"Topologia General","duracion":"64 Hrs","valor":"480000$"}
+Nombre:undefined CC: =10021158 esta Matriculado en el Curso :
+{"id2":"AlgoritAvanz","nombre2":"Analisis y diseño de Algoritmos","duracion2":"64 Hrs","valor2":"430000$"}
+Nombre:Omar CC: =10021158 esta Matriculado en el Curso :
+{"id2":"AlgoritAvanz","nombre2":"Analisis y diseño de Algoritmos","duracion2":"64 Hrs","valor2":"430000$"}

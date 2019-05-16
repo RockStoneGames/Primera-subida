@@ -1,0 +1,16 @@
+{
+  "name": "fundamentos",
+  "version": "1.0.0",
+  "description": "Primera entrega",
+  "main": "Criterios.js",
+  "dependencies": {
+    "lodash.isequal": "^4.5.0",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Ortiz",
+  "license": "ISC"
+}
